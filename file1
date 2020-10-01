@@ -1,3 +1,7 @@
 ls
 this is my new file.
+<<<<<<< HEAD
 why is in not commiting from singapore
+=======
+now lets see if i am commiting from singapore in file1
+>>>>>>> 95bfeea61d9a8cd9ac125b6a52e3cc1086454b38
